@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.exe
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.deps.json
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.runtimeconfig.json
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.runtimeconfig.dev.json
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.dll
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\ref\mergsort.dll
+C:\Users\Admin\Documents\BLN\mergsort\bin\Debug\net5.0\mergsort.pdb
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.AssemblyInfo.cs
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.dll
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\ref\mergsort.dll
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.pdb
+C:\Users\Admin\Documents\BLN\mergsort\obj\Debug\net5.0\mergsort.genruntimeconfig.cache
